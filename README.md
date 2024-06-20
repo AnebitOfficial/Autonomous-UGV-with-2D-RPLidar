@@ -7,6 +7,6 @@ You can refer to the poster file for an overall project description or review th
 
 This repository primarily focuses on the software developed by the team and how they integrated it with the existing built-in software.
 
-You can reach out the demonstration of the project via: https://www.youtube.com/watch?v=hH-_FYtKOSE
+You can reach out the demonstration of the project video via: https://www.youtube.com/watch?v=hH-_FYtKOSE
 
 Also, you follow us on Instagram: https://www.instagram.com/anebit.official/?hl=tr
